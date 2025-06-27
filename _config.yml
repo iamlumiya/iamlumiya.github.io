@@ -115,19 +115,19 @@ analytics:
 author:
   name             : "Lumi Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cognitive Science, University of California, San Diego."
-  location         : "San Diego, United States of America"
+  bio              : "Cognitive Science, UCSD."
+  location         : "La Jolla, CA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "l5kang@ucsd.edu"
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://scholar.google.com/citations?user=KZNU5ZUiV8UC&hl=ko
+    - label: "Researchgate"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.researchgate.net/profile/Lumi-Kang"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
